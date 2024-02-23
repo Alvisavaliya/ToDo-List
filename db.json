@@ -1,0 +1,32 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "task_name": "alvii",
+      "gender": "Female",
+      "firstname": "alvi",
+      "lastname": "savaliya",
+      "email": "alvi@22",
+      "address": "rajkot"
+    },
+    {
+      "id": 2,
+      "firstname": "",
+      "lastname": "",
+      "email": "",
+      "address": "",
+      "task_name": "mahij",
+      "gender": "female"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
